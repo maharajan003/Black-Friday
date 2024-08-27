@@ -11,14 +11,23 @@ Dataset:
 The dataset used for this project includes the following features:
 
 User_ID: Unique identifier for each customer.
+
 Product_ID: Unique identifier for each product.
+
 Gender: Gender of the customer.
+
 Age: Age group of the customer.
+
 Occupation: Occupation code of the customer.
+
 City_Category: Category of the city (A, B, C).
+
 Stay_In_Current_City_Years: Number of years the customer has stayed in the current city.
+
 Marital_Status: Marital status of the customer.
+
 Product_Category_1, 2, 3: Categories of the products purchased.
+
 Purchase: Amount spent on the purchase (target variable).
 
 Key Concepts:
