@@ -1,4 +1,6 @@
 Black Friday Sales Prediction using Random Forest Regressor
+
+
 Project Overview :
 This project aims to predict the purchase amounts during Black Friday sales based on customer demographics and product details. The goal is to build a model that accurately estimates how much a customer is likely to spend, which can help retailers optimize their sales strategies and inventory management.
 
